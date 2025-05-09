@@ -1,6 +1,6 @@
 # Hi there, I'm Arbjon Bardhaj! 👋
 
-I’m a computer science student at the University of Tirana with a passion for full-stack development and cybersecurity.
+I’m a computer science student at the University of Tirana with a passion for full-stack development.
 
 ---
 
